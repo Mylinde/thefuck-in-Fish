@@ -4,7 +4,7 @@
 **Description**
 ---------------
 
-Config to to make thefuck working in fish-shell.
+Config to get thefuck working in the fish-shell.
 
 **Usage**
 ---------
